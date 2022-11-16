@@ -51,6 +51,9 @@ Various models were used to find the best results. Among the models used, Logist
 ### Creating a User Interface
 The last  part  of   the  project  is   the  creation  of  a  user   interface for   the  model. This   user-interface is used to enter unseen data for the model to read and then make a prediction.The UI was created using Streamlit with some CSS elements.
 
+To run the application enter 
+`streamlit run app.py` on command prompt.
+
 ![image](https://user-images.githubusercontent.com/85385312/202097253-4c8def8b-f2ae-4ca8-8a33-f00c0bbe97b1.png)
 
 ### Conclusion
