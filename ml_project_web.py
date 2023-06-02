@@ -19,7 +19,7 @@ def add_bg_from_local(image_file):
     """,
     unsafe_allow_html=True
     )
-add_bg_from_local(r"C:\Users\LENOVO\Dropbox\PC\Downloads\syringe.jpg")
+add_bg_from_local(r"D:\SJC\Diabetes Prediction\syringe.jpg")
 
 #Add image using URL 
 #def add_bg_from_url():
